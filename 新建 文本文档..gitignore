@@ -1,0 +1,6 @@
+# Visual Studio 缓存/配置文件
+.vs/
+*.db
+*.db-shm
+*.db-wal
+*.vcxproj.user
